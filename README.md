@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  lista tuplas y diccionario
+  lista, tuplas y diccionario
 </p>
 
 ***
